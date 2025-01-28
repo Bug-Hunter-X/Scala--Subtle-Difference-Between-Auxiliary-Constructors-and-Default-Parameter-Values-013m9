@@ -1,0 +1,1 @@
+This repository demonstrates a potential source of confusion in Scala related to the use of auxiliary constructors and default parameter values in class definitions.  The `Bug.scala` file contains code highlighting this difference, while `BugSolution.scala` provides a more concise and preferred approach.
